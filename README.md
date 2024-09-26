@@ -20,6 +20,7 @@ if (file_exists($memcacheSettingsFile)) {
 }
 ```
 
+Note that if you use [Acquia Drupal Recommended Settings](https://github.com/acquia/drupal-recommended-settings), this step is unnecessary as DRS will automatically include this file.
 Note that if you use [Acquia BLT](https://github.com/acquia/blt), this step is unnecessary as BLT will automatically include this file.
 
 # License
